@@ -1,0 +1,28 @@
+{
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "grunt": "^1.0.1"
+  },
+  "name": "finweb",
+  "version": "1.0.0",
+  "description": "citics financial web framework",
+  "main": "Gruntfile.js",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/LeeMeo/finweb.git"
+  },
+  "author": "LeeMoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeMeo/finweb/issues"
+  },
+  "homepage": "https://github.com/LeeMeo/finweb#readme"
+}
